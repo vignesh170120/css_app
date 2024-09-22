@@ -1,0 +1,28 @@
+/* .div1{
+    height: 300px;
+    width: 300px;
+    border: 2px solid;
+}
+.div2{
+    height: 50%;
+    width: 50%;
+    border:2px solid red;
+} */ 
+ *{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+ }
+ div{
+    background-image: url(..images/rice.jpg);
+    background-repeat:no-repeat;
+    background-size: 100px 100px;
+    border: dashed 5px;
+    height: 500px;
+    width: 500px;
+    font-size: small;
+    background-color:palevioletred;
+    padding: 15px;
+    background-origin: content-box;
+    background-position: bottom right;
+ }

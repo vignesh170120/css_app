@@ -1,0 +1,15 @@
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: relative;
+    top: 300px;
+}
+.box:hover{
+    width: 100px;
+    background-color: aqua;
+    transition-duration: 3s;
+    transition-property: all;
+    transition-timing-function: ease-in-out;
+    transform:rotate(90deg);
+}

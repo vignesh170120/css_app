@@ -1,0 +1,41 @@
+/* #h{
+    color:white;
+    text-align: center;
+}
+.div1{
+    height: 30vh;
+    background-color:blue;
+}
+#border{
+    border-top: 2px solid brown;
+    border-bottom: 2px solid brown;
+    border-left: 5px solid orange;
+    border-right: none;
+    
+    
+}
+#para{
+    text-align: justify;
+}
+#food{
+    background-image: url(/images/food.jpg);
+    background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: cover;
+    color: white;
+}
+div{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+}
+#heading{
+    background-color: blue;
+}
+#one{
+    color: red;
+}
+#two{
+    color: yellow;
+} */
